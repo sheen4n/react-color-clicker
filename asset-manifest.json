@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-color-clicker/static/css/main.35ab7dae.chunk.css",
+    "main.js": "/react-color-clicker/static/js/main.7694429d.chunk.js",
+    "main.js.map": "/react-color-clicker/static/js/main.7694429d.chunk.js.map",
+    "runtime-main.js": "/react-color-clicker/static/js/runtime-main.f1839976.js",
+    "runtime-main.js.map": "/react-color-clicker/static/js/runtime-main.f1839976.js.map",
+    "static/js/2.d0b05944.chunk.js": "/react-color-clicker/static/js/2.d0b05944.chunk.js",
+    "static/js/2.d0b05944.chunk.js.map": "/react-color-clicker/static/js/2.d0b05944.chunk.js.map",
+    "index.html": "/react-color-clicker/index.html",
+    "precache-manifest.6ab3812045f92a9787bb345d4f19f092.js": "/react-color-clicker/precache-manifest.6ab3812045f92a9787bb345d4f19f092.js",
+    "service-worker.js": "/react-color-clicker/service-worker.js",
+    "static/css/main.35ab7dae.chunk.css.map": "/react-color-clicker/static/css/main.35ab7dae.chunk.css.map",
+    "static/js/2.d0b05944.chunk.js.LICENSE.txt": "/react-color-clicker/static/js/2.d0b05944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1839976.js",
+    "static/js/2.d0b05944.chunk.js",
+    "static/css/main.35ab7dae.chunk.css",
+    "static/js/main.7694429d.chunk.js"
+  ]
+}
